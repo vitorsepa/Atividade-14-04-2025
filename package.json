@@ -1,0 +1,12 @@
+{
+  "name": "pack-atividade09042025-vitor",
+  "version": "1.0.0",
+  "description": "pack da atividade do dia 09-04-2025",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vitor",
+  "license": "ISC",
+  "type": "module"
+}
